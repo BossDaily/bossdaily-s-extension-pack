@@ -1,6 +1,6 @@
 # README
 
-## This is the README for your extension pack "bossdaily-s-extension-pack"
+## This is the README for "bossdaily-s-extension-pack"
 
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
